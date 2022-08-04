@@ -1,9 +1,9 @@
 body {
-    background-color: black;
+    background-color: rgb(11, 8, 8);    
 }
 
 h1 {
-    color: bisque;
+    color: rgb(252, 233, 210);    
 }
 
 div {
@@ -14,7 +14,8 @@ button {
     height: 2.2em;
     width: 5.5em;
     border: none;
-    color: bisque;
+    border-radius: 3px;
+    color: rgb(252, 233, 210);
 }
 
 button:hover {
@@ -22,13 +23,13 @@ button:hover {
 }
 
 .start-btn {
-    background-color: darkgreen;
+    background-color: rgb(2, 82, 2);
 }
 
 .pause-btn {
-    background-color: dimgray;
+    background-color: rgb(100, 99, 99);
 }
 
 .stop-btn {
-    background-color: darkred;
+    background-color: rgb(160, 6, 6);
 }
